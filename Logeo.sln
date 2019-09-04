@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logeo", "Logeo\Logeo.csproj", "{68A44644-9078-4AD0-9E7B-4D6B9F0FBE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{8235EE8A-835D-4794-BAA9-3E73A7073C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A44644-9078-4AD0-9E7B-4D6B9F0FBE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A44644-9078-4AD0-9E7B-4D6B9F0FBE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A44644-9078-4AD0-9E7B-4D6B9F0FBE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A44644-9078-4AD0-9E7B-4D6B9F0FBE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8235EE8A-835D-4794-BAA9-3E73A7073C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8235EE8A-835D-4794-BAA9-3E73A7073C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8235EE8A-835D-4794-BAA9-3E73A7073C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8235EE8A-835D-4794-BAA9-3E73A7073C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C51432-1DAF-4D41-BAB4-A07E6669E07E}
+	EndGlobalSection
+EndGlobal
